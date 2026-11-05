@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameinfo>
+
+	<!-- GAME INFO START -->
+
+	<!-- *** DO NOT EDIT ANYTHING IN THIS SECTION - AUTO GENERATED FROM GAME INFO *** -->
+
+	<spec>
+		<regkey>
+			<value name="DonePromotional"     type="integer">0</value>
+			<value name="DoneUnsupported"     type="integer">0</value>
+			<value name="DoneMinOS"           type="integer">0</value>
+		</regkey>
+	</spec>
+
+
+	<date>20260724150000</date>
+	
+	
+	
+	<!-- Auto-generated: Recommended hardware list -->
+	<spec>
+		<uuid>RecommendedHardware</uuid>
+		<conditions>
+			<or>
+				<stock id="xiaomi_redmi_note_8" />
+				<stock id="google_pixel_2" />
+				<stock id="google_pixel_2_xl" />
+				<stock id="google_pixel_3" />
+				<stock id="google_pixel_3_xl" />
+				<stock id="google_pixel_3a" />
+				<stock id="google_pixel_3a_xl" />
+				<stock id="htc_u12" />
+				<stock id="huawei_honor_10" />
+				<stock id="huawei_mate_20" />
+				<stock id="lg_v30" />
+				<stock id="lenovo_p11_pro_2" />
+				<stock id="moto_g_5G_plus" />
+				<stock id="moto_g50" />
+				<stock id="moto_g9_play" />
+				<stock id="motorola_moto_z2_foce" />
+				<stock id="nokia_8" />
+				<stock id="poco_C65" />
+				<stock id="razer_phone" />
+				<stock id="redmi_10_5g" />
+				<stock id="samsung_galaxy_a32_5g" />
+				<stock id="samsung_galaxy_a33" />
+				<stock id="samsung_galaxy_a50" />
+				<stock id="samsung_galaxy_a51" />
+				<stock id="samsung_galaxy_a54" />
+				<stock id="samsung_galaxy_s9" />
+				<stock id="galaxy_s9_plus" />
+				<stock id="samsung_galaxy_tab_s4" />
+				<stock id="galaxy_tab_s6" />
+				<stock id="xiaomi_mi_6" />
+				<stock id="xiaomi_redmi_note_10" />
+				<stock id="xiaomi_redmi_note_11" />
+				<stock id="xiaomi_redmi_note_8_pro" />
+				<stock id="xiaomi_redmi_note_9s" />
+				<stock id="google_pixel_4" />
+				<stock id="google_pixel_4_xl" />
+				<stock id="google_pixel_4a" />
+				<stock id="google_pixel_4a_5G" />
+				<stock id="Pixel_5a" />
+				<stock id="Pixel_6a" />
+				<stock id="onePlus_5t" />
+				<stock id="onePlus_6" />
+				<stock id="onePlus_6t" />
+				<stock id="onePlus_7" />
+				<stock id="onePlus_7Pro" />
+				<stock id="onePlus_nord" />
+				<stock id="onePlus_nordN10" />
+				<stock id="samsung_galaxy_a51_5g" />
+				<stock id="samsung_galaxy_a70" />
+				<stock id="samsung_galaxy_m53" />
+				<stock id="galaxy_note10_lite" />
+				<stock id="samsung_galaxy_note8" />
+				<stock id="samsung_galaxy_note9" />
+				<stock id="galaxy_s10" />
+				<stock id="galaxy_s10_lite" />
+				<stock id="galaxy_s10e" />
+				<stock id="galaxy_s20_fe" />
+				<stock id="galaxy_s21_fe" />
+				<stock id="galaxy_tab_s7" />
+				<stock id="galaxy_tab_s7_plus" />
+				<stock id="xiaomi_mi_10t_lite" />
+				<stock id="xiaomi_mi_11" />
+				<stock id="xiaomi_mi_11_lite_5G" />
+				<stock id="xiaomi_mi_9" />
+				<stock id="xiaomi_mi_9se" />
+				<stock id="xiaomi_mi_9t" />
+				<stock id="xiaomi_pad_5" />
+				<stock id="xiaomi_poco_f1" />
+				<stock id="xiaomi_poco_f3" />
+				<stock id="xiaomi_poco_x3_nfc" />
+				<stock id="xiaomi_poco_x3_pro" />
+				<stock id="xiaomi_poco_x4_pro" />
+				<stock id="redmi_note_11pro_5g" />
+				<stock id="rog_phone_2" />
+				<stock id="galaxy_tab_s9" />
+				<stock id="Pixel_5" />
+				<stock id="Pixel_6" />
+				<stock id="Pixel_7" />
+				<stock id="Pixel_7a" />
+				<stock id="Pixel_8" />
+				<stock id="Pixel_8a" />
+				<stock id="Pixel_tablet" />
+				<stock id="honor_90" />
+				<stock id="moto_g100" />
+				<stock id="motorola_edge_40" />
+				<stock id="motorola_edge_40_neo" />
+				<stock id="motorola_edge_40_pro" />
+				<stock id="nothing_phone_1" />
+				<stock id="onePlus_10pro" />
+				<stock id="onePlus_10t" />
+				<stock id="onePlus_11" />
+				<stock id="onePlus_7t" />
+				<stock id="onePlus_7tpro" />
+				<stock id="onePlus_8" />
+				<stock id="onePlus_8pro" />
+				<stock id="onePlus_8t" />
+				<stock id="onePlus_9" />
+				<stock id="onePlus_9pro" />
+				<stock id="oneplus_nord_4" />
+				<stock id="onePlus_pad" />
+				<stock id="onePlus_pad_2" />
+				<stock id="oppo_reno_4z_5g" />
+				<stock id="xiaomi_poco_F6" />
+				<stock id="redmagic_9_pro" />
+				<stock id="samsung_galaxy_a80" />
+				<stock id="galaxy_note10" />
+				<stock id="galaxy_note_20" />
+				<stock id="galaxy_note_20_ultra" />
+				<stock id="galaxy_s10_plus" />
+				<stock id="galaxy_s20" />
+				<stock id="galaxy_s20_plus" />
+				<stock id="galaxy_s21" />
+				<stock id="galaxy_s21_plus" />
+				<stock id="galaxy_s22" />
+				<stock id="galaxy_s22_plus" />
+				<stock id="galaxy_s22_ultra" />
+				<stock id="galaxy_s23" />
+				<stock id="galaxy_s23_fe" />
+				<stock id="galaxy_s23_plus" />
+				<stock id="samsung_galaxy_s24_ex" />
+				<stock id="samsung_galaxy_s24_qc" />
+				<stock id="galaxy_tab_s8" />
+				<stock id="galaxy_tab_s8_plus" />
+				<stock id="galaxy_tab_s8_ultra" />
+				<stock id="ulefone_armor_12s" />
+				<stock id="vivo_nex_s" />
+				<stock id="xiaomi_12t" />
+				<stock id="xiaomi_13t" />
+				<stock id="xiaomi_poco_f5" />
+				<stock id="xiaomi_poco_x6_pro" />
+				<stock id="xperia_1_ii" />
+				<stock id="xperia_5_ii" />
+				<stock id="xperia_5_iii" />
+				<stock id="xperia_5_iv" />
+				<stock id="galaxy_s23_ultra" />
+				<stock id="samsung_galaxy_s24_plus_ex" />
+				<stock id="samsung_galaxy_s24_plus_qc" />
+				<stock id="samsung_galaxy_s25" />
+				<stock id="samsung_galaxy_s25_ultra" />
+				<stock id="samsung_galaxy_s25_plus" />
+				<stock id="galaxy_tab_s9_ultra" />
+				<stock id="galaxy_tab_s9_plus" />
+				<stock id="Pixel_6_pro" />
+				<stock id="google_pixel_7_pro" />
+				<stock id="Pixel_7_pro" />
+				<stock id="Pixel_8_Pro" />
+				<stock id="Pixel_9" />
+				<stock id="motorola_edge_50_pro" />
+				<stock id="oneplus_12" />
+				<stock id="galaxy_note10_plus" />
+				<stock id="galaxy_s20_ultra" />
+				<stock id="galaxy_s21_ultra" />
+				<stock id="samsung_galaxy_s24_ultra" />
+				<stock id="galaxy_z_fold3" />
+				<stock id="galaxy_z_fold4" />
+				<stock id="xiaomi_13t_pro" />
+				<stock id="xperia_1_iii" />
+				<stock id="xperia_1_iv" />
+				<stock id="Pixel_9_pro" />
+				<stock id="Pixel_9_pro_xl" />
+				<!-- Samsung Galaxy Z Flip 7 -->
+				<Device_Name><is>SC-55F</is></Device_Name>
+				<Device_Name><is>SCG35</is></Device_Name>
+				<Device_Name><is>b7s</is></Device_Name>
+				<!-- Samsung Galaxy S26 Exynos -->
+				<Device_Name><is>m1s</is></Device_Name>
+				<!-- Samsung Galaxy S26+ Exynos -->
+				<Device_Name><is>m2s</is></Device_Name>
+			</or>
+		</conditions>
+		<ignore_if_set>SkipUnsupportedHardwareCheck</ignore_if_set>
+		<regkey><value name="IsOfficiallySupportedDevice"	type="integer"	force="TRUE">1</value></regkey>
+	</spec>
+
+	
+	<!-- Auto-generated: Minimum supported hardware warning for Tier 1 -->
+	<spec>
+		<uuid>MinimumSupportedHardware</uuid>
+		<conditions>
+			<or>
+			</or>
+		</conditions>
+		
+		<ignore_if_set>SkipUnsupportedHardwareCheck</ignore_if_set>
+		<regkey><value name="DoneUnsupported" type="integer">1</value></regkey>
+	</spec>
+
+	
+	<!-- Auto-generated: Warning for known but untested or ineligible hardware in Tier 3 -->
+	<spec>
+		<uuid>UntestedInlegibleHardware</uuid>
+		<conditions>
+			<or>
+			</or>
+		</conditions>
+		
+		<ignore_if_set>SkipUnsupportedHardwareCheck</ignore_if_set>
+		<regkey><value name="DoneUnsupported" type="integer">1</value></regkey>
+	</spec>
+
+	
+	<!-- Auto-generated: Untested but capable hardware warning for Tier 2 -->
+	<spec>
+		<uuid>UntestedCapableHardware</uuid>
+		<conditions>
+			<and>
+				<regkey><value name="IsOfficiallySupportedDevice"   type="integer"> <have_not/> </value></regkey>
+				<or>
+					<stock id="android_adreno_430" />
+					<stock id="android_adreno_506" />
+					<stock id="android_adreno_509" />
+					<stock id="android_adreno_530" />
+					<stock id="android_adreno_540" />
+					<stock id="android_adreno_610" />
+					<stock id="android_adreno_612" />
+					<stock id="android_adreno_615" />
+					<stock id="android_adreno_616" />
+					<stock id="android_adreno_617" />
+					<stock id="android_adreno_618" />
+					<stock id="android_adreno_619" />
+					<stock id="android_adreno_619L" />
+					<stock id="android_adreno_620" />
+					<stock id="android_adreno_630" />
+					<stock id="android_adreno_640" />
+					<stock id="android_adreno_642" />
+					<stock id="android_adreno_642L" />
+					<stock id="android_adreno_644" />
+					<stock id="android_adreno_650" />
+					<stock id="android_adreno_660" />
+					<stock id="android_adreno_720" />
+					<stock id="android_adreno_725" />
+					<stock id="android_adreno_730" />
+					<stock id="android_adreno_732" />
+					<stock id="android_adreno_735" />
+					<stock id="android_adreno_740" />
+					<stock id="android_adreno_750" />
+					<stock id="android_adreno_810" />
+					<stock id="android_adreno_830" />
+					<stock id="android_mali_G57" />
+					<stock id="android_mali_G71" />
+					<stock id="android_mali_G72" />
+					<stock id="android_mali_G610" />
+					<stock id="android_mali_G615" />
+					<stock id="android_mali_G615_MC2" />
+					<stock id="android_mali_G710" />
+					<stock id="android_mali_G715" />
+					<stock id="android_mali_G720" />
+					<stock id="android_mali_G77" />
+					<stock id="android_mali_G78" />
+					<stock id="android_mali_G925" />
+					<stock id="android_mali_G68" />
+					<stock id="android_mali_G72_MP12" />
+					<stock id="android_mali_G72_MP18" />
+					<stock id="android_mali_G76" />
+					<stock id="vendor_Xclipse" />
+				</or>
+			</and>
+		</conditions>
+		
+		<ignore_if_set>SkipUnsupportedHardwareCheck</ignore_if_set>
+		<regkey><value name="HasSimilarHardwareToSupportedDevice"   type="integer"  force="TRUE">1</value></regkey>
+		<regkey><value name="DoneUnsupported" type="integer">1</value></regkey>
+	</spec>
+
+	<spec>
+		<uuid>UnknownIneligibleHardware</uuid>
+		<conditions>
+			<and>
+				<regkey><value name="IsOfficiallySupportedDevice"   type="integer"> <have_not/> </value></regkey>
+				<regkey><value name="HasSimilarHardwareToSupportedDevice"   type="integer"> <have_not/> </value></regkey>	
+			</and>
+		</conditions>
+		
+		<ignore_if_set>SkipUnsupportedHardwareCheck</ignore_if_set>
+		<regkey><value name="DoneUnsupported" type="integer">1</value></regkey>
+	</spec>
+
+	<!-- GAME INFO END -->
+
+	<!--============================================================================>
+	<                       General Configuration                                   >
+	<=============================================================================-->
+
+	<!-- Require Vulkan -->
+	<spec>
+	<conditions>
+		<OpenGL_version_major><more>0</more></OpenGL_version_major>
+		</conditions>
+		<alert stock_id="VulkanSupportRequiredAndroid">
+			<replace>
+				<from>#{faq_section}</from>
+				<to>#i_linux_vulkan_required</to>
+			</replace>
+		</alert>
+	</spec>
+
+	<!-- Reset regkeys we forced in the Android (Phase 1) Beta (COHONE-7193) -->
+	<spec>
+		<uuid>ResetPhase1BetaRegkeys</uuid>
+
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="UseBetaSaveLocation"			type="integer">0</value>
+			<value name="DeleteOldSavesPostMigration"	type="integer">1</value>
+		</regkey>
+	</spec>
+
+	<!--=================================>
+	<          Default Settings          >
+	<==================================-->
+
+	<!--
+		Android Medium Preset
+	-->
+	<spec>
+		<conditions>
+		</conditions>
+		
+		<uuid>Android_Underspec_or_unknown_1_7RC4</uuid>
+
+		<!-- Resolution -->
+		<regkey path ="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="FixedScreenHeight"		type="integer">720</value>
+		</regkey>
+		
+		<!-- Graphics Settings -->
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="antialiasing"			type="integer">0</value>
+			<value name="effectsdensity"		type="integer">1</value>
+			<value name="effectsfidelity"		type="integer">1</value>
+			<value name="modeldetail"			type="integer">400</value>
+			<value name="modelquality"			type="integer">1</value>
+			<value name="objectscarring"		type="integer">1</value>
+			<value name="physics"				type="integer">0</value>
+			<value name="postprocessing"		type="integer">0</value>
+			<value name="raindetail"			type="integer">1</value>
+			<value name="reflections"			type="integer">1</value>
+			<value name="shaderquality"			type="integer">2</value>
+			<value name="shadows"				type="integer">1</value>
+			<value name="shrubsdetail"			type="integer">1</value>
+			<value name="terraindetail"			type="integer">2</value>
+			<value name="texturedetail"			type="integer">2</value>
+			<value name="treedetail"			type="integer">1</value>
+			<value name="MaxCamDist"			type="double">50.0</value>
+			<value name="soundfrequency"		type="integer">22050</value>
+			<value name="soundvoices"			type="integer">64</value>
+			<value name="envreverbchannels"		type="integer">1</value>
+		</regkey>
+
+		<!-- Fixed 30 FPS cap -->
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="MaxFramesPerSecond"    type="integer"  force="TRUE">60</value>
+		</regkey>
+
+	</spec>
+
+	<!--
+		Android Very Low
+	-->
+	<spec>
+		<conditions>
+			<or>
+				<stock id="Mali_G51_Renderer"/>
+				<stock id="Mali_G52_Renderer"/>
+				<stock id="android_mali_G57"/>
+				<stock id="android_mali_G610"/>
+				<stock id="android_mali_G68"/>
+				<stock id="Mali_G71_Renderer"/>
+				<stock id="Mali_G72_MP12_Renderer"/>
+				<stock id="android_mali_G72"/>
+				<stock id="Adreno_430_Renderer"/>
+				<stock id="Adreno_506_Renderer"/>
+				<stock id="android_adreno_509"/>
+				<stock id="Adreno_530_Renderer"/>
+				<stock id="Adreno_610_Renderer"/>
+				<!-- Adreno 61x -->
+				<and>
+					<GPU_renderer><contains>Adreno</contains></GPU_renderer>
+					<GPU_renderer><contains> 61</contains></GPU_renderer>
+				</and>
+				<stock id="Adreno_612_Renderer"/>
+				<stock id="Adreno_615_Renderer"/>
+				<stock id="Adreno_616_Renderer"/>
+				<stock id="Adreno_617_Renderer"/>
+				<stock id="Adreno_618_Renderer"/>
+				<stock id="Adreno_619_Renderer"/>
+				<stock id="Adreno_619L_Renderer"/>
+				<stock id="Adreno_620_Renderer"/>
+				<stock id="android_adreno_3xx"/>
+				<stock id="android_adreno_4xx"/>
+				<stock id="android_adreno_5xx"/>
+                <!-- Adreno 512 -->
+                <and>
+                    <GPU_renderer><contains>Adreno</contains></GPU_renderer>
+                    <GPU_renderer><contains>512</contains></GPU_renderer>
+                </and>
+			</or>
+		</conditions>
+		
+		<uuid>Android_Very_Low_1_7RC4</uuid>
+
+		<!-- Resolution -->
+		<regkey path ="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="FixedScreenHeight"		type="integer">720</value>
+		</regkey>
+		
+		<!-- Graphics Settings -->
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="antialiasing"			type="integer">0</value>
+			<value name="effectsdensity"		type="integer">0</value>
+			<value name="effectsfidelity"		type="integer">0</value>
+			<value name="modeldetail"			type="integer">400</value>
+			<value name="modelquality"			type="integer">1</value>
+			<value name="objectscarring"		type="integer">0</value>
+			<value name="physics"				type="integer">0</value>
+			<value name="postprocessing"		type="integer">0</value>
+			<value name="raindetail"			type="integer">1</value>
+			<value name="reflections"			type="integer">0</value>
+			<value name="shaderquality"			type="integer">2</value>
+			<value name="shadows"				type="integer">0</value>
+			<value name="shrubsdetail"			type="integer">0</value>
+			<value name="terraindetail"			type="integer">3</value>
+			<value name="texturedetail"			type="integer">3</value>
+			<value name="treedetail"			type="integer">2</value>
+			<value name="MaxCamDist"			type="double">40.0</value>
+		</regkey>
+
+		<!-- Fixed 30 FPS cap -->
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="MaxFramesPerSecond"    type="integer"  force="TRUE">60</value>
+		</regkey>
+
+	</spec>
+
+	<!--
+		Android Low
+	-->
+	<spec>
+		<conditions>
+			<or>
+				<stock id="Mali_G76_Renderer"/>
+				<stock id="Mali_G77_Renderer"/>
+				<and>
+					<GPU_renderer><contains>Xclipse</contains></GPU_renderer>
+					<GPU_renderer><contains>530</contains></GPU_renderer>
+				</and>
+				<and>
+					<GPU_renderer><contains>Xclipse</contains></GPU_renderer>
+					<GPU_renderer><contains>540</contains></GPU_renderer>
+				</and>
+				<stock id="Mali_G78_Renderer"/>
+				<stock id="Xclipse_920_Renderer"/>
+				<stock id="Mali_G710_Renderer"/>
+				<stock id="android_mali_G615_MC2"/>
+				<stock id="android_mali_G615"/>
+				<stock id="android_mali_G715"/>
+				<stock id="android_mali_G720"/>
+				<stock id="android_xclipse_940"/>
+			</or>
+		</conditions>
+		
+		<uuid>Android_Low_1_7RC4</uuid>
+
+		<!-- Resolution -->
+		<regkey path ="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="FixedScreenHeight"		type="integer">900</value>
+		</regkey>
+		
+		<!-- Graphics Settings -->
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="antialiasing"			type="integer">0</value>
+			<value name="effectsdensity"		type="integer">1</value>
+			<value name="effectsfidelity"		type="integer">1</value>
+			<value name="modeldetail"			type="integer">400</value>
+			<value name="modelquality"			type="integer">1</value>
+			<value name="objectscarring"		type="integer">1</value>
+			<value name="physics"				type="integer">0</value>
+			<value name="postprocessing"		type="integer">0</value>
+			<value name="raindetail"			type="integer">1</value>
+			<value name="reflections"			type="integer">1</value>
+			<value name="shaderquality"			type="integer">2</value>
+			<value name="shadows"				type="integer">1</value>
+			<value name="shrubsdetail"			type="integer">1</value>
+			<value name="terraindetail"			type="integer">2</value>
+			<value name="texturedetail"			type="integer">3</value>
+			<value name="treedetail"			type="integer">1</value>
+			<value name="MaxCamDist"			type="double">50.0</value>
+		</regkey>
+
+		<!-- Fixed 30 FPS cap -->
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="MaxFramesPerSecond"    type="integer"  force="TRUE">60</value>
+		</regkey>
+
+	</spec>
+	
+	<!--
+		Android Medium
+	-->
+	<spec>
+		<conditions>
+			<or>
+				<stock id="Adreno_540_Renderer"/>
+				<stock id="Adreno_630_Renderer"/>
+				<stock id="Adreno_640_Renderer"/>
+				<stock id="Adreno_642_Renderer"/>
+				<and>
+					<GPU_renderer><contains>Adreno</contains></GPU_renderer>
+					<GPU_renderer><contains>643</contains></GPU_renderer>
+				</and>
+				<stock id="android_adreno_644"/>
+				<stock id="Adreno_650_Renderer"/>
+				<stock id="Adreno_660_Renderer"/>
+				<stock id="android_adreno_710"/>
+				<stock id="android_adreno_714"/>
+				<stock id="android_adreno_720"/>
+				<stock id="android_adreno_726"/>
+				<stock id="android_adreno_725"/>
+				<stock id="Adreno_730_Renderer"/>
+				<stock id="android_adreno_732"/>
+				<stock id="android_adreno_735"/>
+				<stock id="android_adreno_7xx"/>
+				<stock id="android_adreno_740"/>
+				<stock id="android_adreno_750"/>
+				<stock id="android_adreno_810"/>
+				<!-- Adreno 81x -->
+				<and>
+					<GPU_renderer><contains>Adreno</contains></GPU_renderer>
+					<GPU_renderer><contains> 81</contains></GPU_renderer>
+				</and>
+				<!-- Adreno 825 -->
+				<and>
+					<GPU_renderer><contains>Adreno</contains></GPU_renderer>
+					<GPU_renderer><contains>825</contains></GPU_renderer>
+				</and>
+				<stock id="android_adreno_830"/>
+				<!-- Adreno 840 -->
+				<and>
+					<GPU_renderer><contains>Adreno</contains></GPU_renderer>
+					<GPU_renderer><contains>840</contains></GPU_renderer>
+				</and>
+				<stock id="android_mali_G925" />
+				<!-- Mali G1 Ultra -->
+				<and>
+					<GPU_renderer><contains>Mali</contains></GPU_renderer>
+					<GPU_renderer><contains>G1</contains></GPU_renderer>
+					<GPU_renderer><contains>Ultra</contains></GPU_renderer>
+				</and>
+				<!-- Xclipse 950 -->
+				<and>
+					<GPU_renderer><contains>Xclipse</contains></GPU_renderer>
+					<GPU_renderer><contains>950</contains></GPU_renderer>
+				</and>
+				<!-- Xclipse 960 -->
+				<and>
+					<GPU_renderer><contains>Xclipse</contains></GPU_renderer>
+					<GPU_renderer><contains>960</contains></GPU_renderer>
+				</and>
+			</or>
+		</conditions>
+		
+		<uuid>Android_Medium_1_7RC4</uuid>
+
+		<!-- Resolution -->
+		<regkey path ="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="FixedScreenHeight"		type="integer">1080</value>
+		</regkey>
+		
+		<!-- Graphics Settings -->
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="antialiasing"			type="integer">0</value>
+			<value name="effectsdensity"		type="integer">1</value>
+			<value name="effectsfidelity"		type="integer">1</value>
+			<value name="modeldetail"			type="integer">400</value>
+			<value name="modelquality"			type="integer">1</value>
+			<value name="objectscarring"		type="integer">1</value>
+			<value name="physics"				type="integer">0</value>
+			<value name="postprocessing"		type="integer">0</value>
+			<value name="raindetail"			type="integer">1</value>
+			<value name="reflections"			type="integer">1</value>
+			<value name="shaderquality"			type="integer">2</value>
+			<value name="shadows"				type="integer">1</value>
+			<value name="shrubsdetail"			type="integer">1</value>
+			<value name="terraindetail"			type="integer">2</value>
+			<value name="texturedetail"			type="integer">2</value>
+			<value name="treedetail"			type="integer">1</value>
+			<value name="MaxCamDist"			type="double">50.0</value>
+		</regkey>
+
+		<!-- Fixed 30 FPS cap -->
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="MaxFramesPerSecond"    type="integer"  force="TRUE">60</value>
+		</regkey>
+
+	</spec>
+
+	<!--=================================>
+	<          Device Overrides          >
+	<==================================-->
+
+	<!-- Adreno 540 - 900p override for LG V30 -->
+	<spec>
+		<conditions>
+			<or>
+				<Device_Name><is>joan</is></Device_Name>
+				<Device_Name><is>L-01K</is></Device_Name>
+			</or>
+		</conditions>
+		
+		<uuid>Adreno_540_900p_1_7RC4</uuid>
+
+		<!-- Resolution -->
+		<regkey path ="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="FixedScreenHeight"		type="integer">900</value>
+		</regkey>
+	</spec>
+
+	<!-- Ribbons give extra detail to buildings but currently cause floating windows on mobile so they've been disabled for all devices -->
+	<spec>
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="ribbons"				type="integer">0</value>
+		</regkey>
+	</spec>
+
+
+	<!-- Workarounds for device loss issues on Mali GPUs -->
+	<spec>
+		<uuid>Mali_workarounds_1_7RC4</uuid>
+
+		<conditions>
+			<GPU_vendor><is>arm</is></GPU_vendor>
+		</conditions>
+
+		<regkey>
+			<value name="COHONE1727FlushThreshold" type="integer">25000</value>
+			<value name="COHONE2264DisableShadowBatching" type="integer">1</value>
+		</regkey>
+	</spec>
+
+
+	<!-- Workaround for fbug://COHONE-7096 -->
+	<spec>
+		<uuid>workaround_cohone_7096_1_7RC4</uuid>
+
+		<conditions>
+				<or>
+					<!-- Mate 20 -->
+					<Device_Name><is>HWHMA</is></Device_Name>
+
+					<!-- Redmi Note 8 pro -->
+					<Device_Name><is>begoniain</is></Device_Name>
+					<Device_Name><is>begonia</is></Device_Name>
+				</or>
+		</conditions>
+
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup">
+			<value name="EnableCOHONE7096Workaround" type="integer">1</value>
+		</regkey>
+	</spec>
+
+
+	<!-- OnePlus Nord N10 UI override,fbug://COHONE-2949 -->
+	<spec>
+		<uuid>Phone_ui_override_1_7RC4</uuid>
+ 
+		<conditions>
+			<or>
+				<!-- Motorola One 5G UW Ace -->
+				<Device_Name><is>nairo</is></Device_Name>
+				<Device_Name><is>kievv</is></Device_Name>
+				<Device_Name><is>kiev</is></Device_Name>
+				<!-- Motorola Edge 50 neo -->
+				<Device_Name><is>nice</is></Device_Name>
+				<!-- Oneplus 9 -->
+				<Device_Name><is>OnePlus9Pro</is></Device_Name>
+				<Device_Name><is>OnePlus9ProTMO</is></Device_Name>
+				<!-- Oneplus 10 -->
+				<Device_Name><is>OnePlusN10</is></Device_Name>
+				<Device_Name><is>OnePlusN10METRO</is></Device_Name>
+				<Device_Name><is>OnePlusN10TMO</is></Device_Name>
+				<!-- Nothing phone (1) -->
+				<Device_Name><is>Spacewar</is></Device_Name>
+				<!-- Samsung Galaxy A31 -->
+				<Device_Name><is>a31</is></Device_Name>
+				<!-- Samsung Galaxy A50 -->
+				<Device_Name><is>a50</is></Device_Name>
+				<!-- Samsung Galaxy A51 -->
+				<Device_Name><is>a51</is></Device_Name>
+				<!-- Samsung Galaxy A51 5G -->
+				<Device_Name><is>SC-54A</is></Device_Name>
+				<Device_Name><is>SCG07</is></Device_Name>
+				<Device_Name><is>a51x</is></Device_Name>
+				<Device_Name><is>a51xq</is></Device_Name>
+				<!-- Samsung Galaxy A80 -->
+				<Device_Name><is>r1q</is></Device_Name>
+				<!-- Samsung Galaxy S10 fbug://COHONE-7507 -->
+				<Device_Name><is>beyond1</is></Device_Name>
+				<Device_Name><is>beyond1q</is></Device_Name>
+				<!-- Samsung Galaxy S10+ -->
+				<Device_Name><is>beyond2</is></Device_Name>
+				<Device_Name><is>beyond2q</is></Device_Name>
+				<!-- Samsung Note 9 fbug://COHONE-6610-->
+				<Device_Name><is>crownlte</is></Device_Name>
+				<Device_Name><is>crownlteks</is></Device_Name>
+				<Device_Name><is>crownqltechn</is></Device_Name>
+				<Device_Name><is>crownqltecs</is></Device_Name>
+				<Device_Name><is>crownqltesq</is></Device_Name>
+				<Device_Name><is>crownqlteue</is></Device_Name>
+				<Device_Name><is>SC-01L</is></Device_Name>
+				<Device_Name><is>SCV40</is></Device_Name>
+				<!-- Samsung Galaxy Note10+ fbug://COHONE-6610 -->
+				<Device_Name><is>d2x</is></Device_Name>
+				<Device_Name><is>d2xq</is></Device_Name>
+				<Device_Name><is>d2xq2</is></Device_Name>
+				<stock id="google_pixel_4a_5G" />
+				<stock id="Pixel_5a" />
+			</or>
+		</conditions>
+ 
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup">
+			<value name="DeviceIsTablet" type="integer">0</value>
+		</regkey>
+	</spec>
+
+
+	<spec>
+		<uuid>androidMaliG77FlickerWorkaround_COHONE_6137</uuid>
+
+		<conditions>
+			<and>
+				<stock id="Mali_G77_Renderer"/>
+				<OS_version_major><more_or_equal>11</more_or_equal></OS_version_major>
+			</and>
+		</conditions>
+
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="VulkanRenderToBackbuffer"      type="integer">0</value>
+		</regkey>
+	</spec>
+
+	<spec>
+		<uuid>android13_14maliFlashingWorkaround</uuid>
+
+		<conditions>
+			<and>
+				<or>
+					<stock id="android_mali_G68" />
+				</or>
+				<OS_version_major><more_or_equal>13</more_or_equal></OS_version_major>
+			</and>
+		</conditions>
+
+		<regkey path="Software\IndirectX\Direct3D\Config" copyInitial="false">
+			<value name="VulkanRenderToBackbuffer"		type="integer">0</value>
+		</regkey>
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup">
+			<value name="CombineRenderPasses"			type="integer">1</value>
+			<value name="FlushBeforeRenderingWorld"		type="integer">1</value>
+			<value name="UseDelayedStoreActions"		type="integer">1</value>
+		</regkey>
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="reflections"					type="integer">0</value>
+		</regkey>
+	</spec>
+
+	<!-- Workaround for fbug://COHONE-8562 -->
+	<spec>
+		<uuid>samsung_auto_touch_protect_workaround_COHONE_8562</uuid>
+
+		<conditions>
+			<and>
+				<Vendor_Name><is>samsung</is></Vendor_Name>
+			</and>
+		</conditions>
+
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup">
+			<value name="EnableCOHONE8562Workaround" type="integer">1</value>
+		</regkey>
+	</spec>
+
+	<!-- Poor performance workaround for Tensor SoC fbug://COHONE-8568 -->
+	<spec>
+		<conditions>
+			<or>
+				<stock id="Pixel_8" />
+				<stock id="Pixel_8a" />
+				<stock id="Pixel_8_Pro" />
+			</or>
+		</conditions>
+		
+		<uuid>TensorG3Defaults</uuid>
+		
+		<!-- Graphics Settings -->
+		<regkey path="Software\Original Developer\Company of Heroes\Config" copyInitial="false">
+			<value name="effectsdensity"		type="integer">0</value>
+			<value name="effectsfidelity"		type="integer">0</value>
+		</regkey>
+	</spec>
+
+	<!-- Crash workaround for PowerVR renderers fbug://COHONE-9410 -->
+	<spec>
+		<conditions>
+			<or>
+				<and>
+					<GPU_renderer><contains>PowerVR D-Series</contains></GPU_renderer>
+					<GPU_renderer><contains>DXT-48</contains></GPU_renderer>
+				</and>
+				<and>
+  					<GPU_renderer><contains>PowerVR C-Series</contains></GPU_renderer>
+					<GPU_renderer><contains>CXTP-48</contains></GPU_renderer>
+				</and>
+			</or>
+		</conditions>
+
+		<uuid>DisablePipelineCacheFiles_1_8_1RC1</uuid>
+
+		<regkey path="Software\IndirectX\Direct3D\Config">
+			<value name="VulkanEnablePipelineCacheWrite" type="integer">0</value>
+		</regkey>	
+	</spec>
+
+	<spec>
+		<conditions>
+			<stock id="android_mali_G57"/>
+		</conditions>
+
+		<uuid>androidMaliG57FlickerWorkaround_COHONE_9405</uuid>
+
+		<regkey path="Software\Feral Interactive\Company of Heroes\Setup" copyInitial="false">
+			<value name="kBug_Android_Vulkan_Mali_ImplicitLayoutTransitionCorruptsBlending"      type="integer">1</value>
+		</regkey>
+	</spec>
+
+</gameinfo>
